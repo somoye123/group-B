@@ -1,0 +1,12 @@
+input {
+  border-color: red;
+  width: 300px;
+}
+input:hover {
+  border-color: green;
+}
+@media screen and (min-width: 350px) {
+  input {
+    width: 150px;
+  }
+}
