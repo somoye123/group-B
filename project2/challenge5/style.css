@@ -1,0 +1,17 @@
+@media screen and (min-width: 1280px) {
+  img {
+    width: 600px;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  img {
+    width: 400px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  img {
+    width: 100px;
+  }
+}
