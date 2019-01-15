@@ -1,0 +1,49 @@
+.space {
+  padding-top:5%;
+  padding-right:5px;
+  padding-bottom:5%;
+  padding-left:5px;
+  background-color:#525556;
+}
+
+.col-md-6.height {
+}
+
+.carousel-item.active.slide {
+  height:100vh;
+  background-color:#a4c4b5;
+}
+
+.btn:not(:disabled):not(.disabled) {
+}
+
+.btn:not(:disabled):not(.disabled) {
+  padding-top:5px;
+  padding-bottom:5px;
+  padding-right:45px;
+  padding-left:45px;
+  border-radius:35px;
+  background-color:#525556;
+  border-color:#525556;
+}
+
+.form-control.text {
+  border-top:none;
+  border-left:none;
+  border-right:none;
+}
+
+.bcenter {
+  border-top:2px solid;
+  width:70px;
+  margin-top:10px;
+  color:rgba(145, 148, 148, 0.5215686274509804);
+}
+
+#or {
+}
+
+#createAccount {
+  text-decoration:underline;
+}
+
